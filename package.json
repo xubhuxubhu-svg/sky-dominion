@@ -1,0 +1,9 @@
+{
+  "name": "sky-dominion",
+  "version": "1.0.0",
+  "description": "空域主宰：多人合作飛機射擊遊戲（遊戲製作 Eric Hu）",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0", "pg": "^8.12.0" }
+}
